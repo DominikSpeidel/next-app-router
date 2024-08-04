@@ -1,3 +1,3 @@
 export default function MealsPage() {
-  return;
+  return <h1>Share Meals</h1>;
 }
